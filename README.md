@@ -11,9 +11,8 @@ $ source ~/.bash_aliases
 ```
 For more info about bash aliases, please visit [here](http://www.tldp.org/LDP/abs/html/aliases.html).
 
-
 ---
 
 > [yehuang.me](https://yehuang.me) &nbsp;&middot;&nbsp;
 > GitHub [@crabcanon](https://github.com/crabcanon) &nbsp;&middot;&nbsp;
-> Twitter [@sysuhuangye](https://twitter.com/sysuhuangye)
+> Gmail [@sysuhuangye](<mailto:sysuhuangye@gmail.com>)
